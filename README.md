@@ -24,6 +24,7 @@ git clone https://github.com/WaiHninEaindrarMg/Face-Recognition.git
 ```
 
 2. Install Ultralytics , check here for more information (https://github.com/akanametov/yolov8-face) :
+I use pretrained YOLO Model from (https://github.com/akanametov/yolov8-face)
 ```
 pip install ultralytics
 ```

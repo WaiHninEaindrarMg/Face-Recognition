@@ -14,9 +14,6 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 - [System Diagram](#system-diagram)
 - [Training Process and Recognition Diagram](#training-process-and-recognition-diagram)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## System Diagram

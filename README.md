@@ -29,8 +29,7 @@ I use pretrained YOLO Model from (https://github.com/akanametov/yolov8-face)
 pip install ultralytics
 ```
 
-3. Install Ultralytics , check here for more information (https://github.com/akanametov/yolov8-face) :
-I use pretrained YOLO Model from (https://github.com/akanametov/yolov8-face)
+3. Install tensorflow:
 ```
-pip install ultralytics
+pip install tensorflow==2.10.1
 ```

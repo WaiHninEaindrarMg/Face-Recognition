@@ -23,3 +23,7 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 git clone https://github.com/WaiHninEaindrarMg/Face-Recognition.git
 ```
 
+2. Install Ultralytics , check here for more information (https://github.com/akanametov/yolov8-face) :
+```
+pip install ultralytics
+```

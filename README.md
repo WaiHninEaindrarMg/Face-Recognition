@@ -21,12 +21,12 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 
 ##
 ## System Diagram
-![System Diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/Overview%20System.jpg)
+![system_diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/Overview%20System.jpg)
 
 
 ##
 ## Training Process and Recognition Diagram
-![Training Process and Recognition Diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/TrainingProcess_Recognition.png)
+![training_diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/TrainingProcess_Recognition.png)
 
 
 ## Installation

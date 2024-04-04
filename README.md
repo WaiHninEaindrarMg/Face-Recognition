@@ -69,9 +69,10 @@ This is result video for 3 models (face recognition results)
 
 ##
 ## Author
-Wai Hnin Eaindrar Mg
-[waihnineaindrarmg@gmail.com]
+Wai Hnin Eaindrar Mg  
+[waihnineaindrarmg@gmail.com](mailto:waihnineaindrarmg@gmail.com)
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
+

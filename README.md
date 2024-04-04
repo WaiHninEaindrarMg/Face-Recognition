@@ -11,6 +11,7 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 
 
 ## Table of Contents
+- [System Diagram](#system_diagram)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
@@ -24,7 +25,7 @@ git clone https://github.com/WaiHninEaindrarMg/Face-Recognition.git
 ```
 
 2. Install Ultralytics , check here for more information (https://github.com/akanametov/yolov8-face) :
-I use pretrained YOLO Model from (https://github.com/akanametov/yolov8-face)
+I used pretrained YOLO Model from (https://github.com/akanametov/yolov8-face) : 
 ```
 pip install ultralytics
 ```
@@ -33,3 +34,11 @@ pip install ultralytics
 ```
 pip install tensorflow==2.10.1
 ```
+
+## Instruction
+1. Run this file https://github.com/WaiHninEaindrarMg/Face-Recognition/blob/main/face_detection_dataset_extraction_.py
+```
+python face_detection_dataset_extraction_.py
+```
+After run this file, these folders and datasets are automatically stored.
+

@@ -19,5 +19,7 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 
 ## Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/face-recognition.git
+```
+[git clone https://github.com/yourusername/face-recognition.git](https://github.com/WaiHninEaindrarMg/Face-Recognition.git)
+```
+

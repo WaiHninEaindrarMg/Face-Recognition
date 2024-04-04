@@ -61,3 +61,12 @@ This is performace plot for train and validation accuracy.
 ![Accuracy](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/resnet%20performance.png)
 
 
+3. Run this file face_detect_recong_2.py
+```
+Run face_detect_recong_2.py
+```
+After run this face_detect_recong_2.py, video output will be showed.
+This is result video for 3 models (face recognition results)
+![Result](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/resnet_accuracy.gif)
+
+

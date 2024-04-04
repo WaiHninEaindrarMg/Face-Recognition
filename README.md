@@ -19,10 +19,10 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 
 ##
 ## System Diagram
-![System Diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/Overview%20System.jpg)
+![System Diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/figure/Overview%20System.jpg)
 
 ## Training Process and Recognition Diagram
-![Training Process and Recognition Diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/TrainingProcess_Recognition.png)
+![Training Process and Recognition Diagram](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/figure/TrainingProcess_Recognition.jpg)
 
 
 ## Installation
@@ -48,7 +48,7 @@ pip install tensorflow==2.10.1
 python face_detection_dataset_extraction_.py
 ```
 After running the specified file, the script automatically stores these folders and datasets:
-![Folders and Datasets](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/folders_dataset.png)
+![Folders and Datasets](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/figure/folders_dataset.jpg)
 
 
 2. Run this file Train.ipynb
@@ -57,7 +57,7 @@ Run Train.ipynb
 ```
 In this Train.ipynb , There are three resnet model 50, 101, 152 model.
 This is performace plot for train and validation accuracy.
-![Accuracy](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/resnet%20performance.png)
+![Accuracy](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/figure/resnet%20performance.jpg)
 
 
 3. Run this file face_detect_recong_2.py
@@ -66,7 +66,7 @@ Run face_detect_recong_2.py
 ```
 After run this face_detect_recong_2.py, video output will be showed.
 This is result video for 3 models (face recognition results)
-![Result](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/resnet_accuracy.gif)
+![Result](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/figure/resnet_accuracy.gif)
 
 ##
 ## Author

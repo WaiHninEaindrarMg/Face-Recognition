@@ -72,6 +72,8 @@ This is result video for 3 models (face recognition results)
 ## Author
 👤 : Wai Hnin Eaindrar Mg  
 📧 : [waihnineaindrarmg@gmail.com](mailto:waihnineaindrarmg@gmail.com)
+📧 : [LinkedIn](www.linkedin.com/in/wai-hnin-eaindrar-mg-01008b16a)
+
 
 ## License
 

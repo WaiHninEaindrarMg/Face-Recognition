@@ -49,4 +49,4 @@ pip install tensorflow==2.10.1
 python face_detection_dataset_extraction_.py
 ```
 After run this file, these folders and datasets are automatically stored.
-
+(https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/folders_dataset.png)

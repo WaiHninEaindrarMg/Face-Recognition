@@ -14,6 +14,7 @@ ResNet, short for Residual Network, is a deep convolutional neural network archi
 - [System Diagram](#system-diagram)
 - [Training Process and Recognition Diagram](#training-process-and-recognition-diagram)
 - [Installation](#installation)
+- [Author](#author)
 - [License](#license)
 
 ## System Diagram
@@ -66,4 +67,11 @@ After run this face_detect_recong_2.py, video output will be showed.
 This is result video for 3 models (face recognition results)
 ![Result](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/resnet_accuracy.gif)
 
+##
+## Author
+Wai Hnin Eaindrar Mg
+[waihnineaindrarmg@gmail.com]
 
+## License
+
+This project is licensed under the [MIT] License - see the LICENSE.md file for details

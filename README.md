@@ -50,3 +50,9 @@ python face_detection_dataset_extraction_.py
 ```
 After running the specified file, the script automatically stores these folders and datasets:
 ![Folders and Datasets](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/folders_dataset.png)
+
+
+2. Run this file https://github.com/WaiHninEaindrarMg/Face-Recognition/blob/main/face_detection_dataset_extraction_.py
+```
+python face_detection_dataset_extraction_.py
+```

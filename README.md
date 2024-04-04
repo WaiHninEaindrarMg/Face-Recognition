@@ -52,7 +52,12 @@ After running the specified file, the script automatically stores these folders 
 ![Folders and Datasets](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/folders_dataset.png)
 
 
-2. Run this file https://github.com/WaiHninEaindrarMg/Face-Recognition/blob/main/face_detection_dataset_extraction_.py
+2. Run this file Train.ipynb
 ```
-python face_detection_dataset_extraction_.py
+Run Train.ipynb
 ```
+In this Train.ipynb , There are three resnet model 50, 101, 152 model.
+This is performace plot for train and validation accuracy.
+![Accuracy](https://raw.githubusercontent.com/WaiHninEaindrarMg/Face-Recognition/main/resnet%20performance.png)
+
+
